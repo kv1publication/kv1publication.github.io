@@ -475,3 +475,7 @@ h6,
 #features2-b .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
+#msg-box8-c .mbr-section-title,
+#msg-box8-c p {
+  color: #fff;
+}
