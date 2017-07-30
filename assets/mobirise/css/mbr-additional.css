@@ -465,3 +465,13 @@ h6,
 #msg-box8-8 p {
   color: #fff;
 }
+#content5-a .mbr-section-title,
+#content5-a p {
+  color: #fff;
+}
+#content5-a .mbr-section-title {
+  text-align: center;
+}
+#features2-b .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
