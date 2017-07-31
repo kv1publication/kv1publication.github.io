@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kendriya Vidyalaya No 1",
-    "currentPage": "classroom.html",
+    "currentPage": "Vaigai.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 30,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/web-hi-res-512-128x128.png",
     "noImageResize": ""
@@ -112,7 +112,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1175,7 +1175,7 @@
           "_styles": {
             ".mbr-section-title": {
               "text-align": "center",
-              "font-size": "48px"
+              "font-size": "46px"
             },
             ".mbr-section-lead": {
               "text-align": "center"
@@ -1203,7 +1203,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "GOOGLE&nbsp;CLASSROOM<br>",
+          "title": "GOOGLE<br>CLASSROOM<br>",
           "text": "GET CONNECTED TO YOUR CLASSROOM",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -1670,7 +1670,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1686,7 +1686,7 @@
             "showButtons": false
           },
           "title": "<br>VAIGAI<br>HOUSE",
-          "text": "Green is the prime colour of the world, and that from which its loveliness arises.<br><br><b>Welcome to Vaigai House!</b><br>",
+          "text": "Red is the first colour of spring. It's the real colour of rebirth. Of beginning.<br><br><b>Welcome to Vaigai House!</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
@@ -1714,8 +1714,8 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1731,7 +1731,7 @@
             "showButtons": false
           },
           "title": "<br>MEGHNA<br>HOUSE",
-          "text": "Green is the prime colour of the world, and that from which its loveliness arises.<br><br><b>Welcome to Meghna House!</b><br>",
+          "text": "Let the blue sky meet the blue sea and all is blue for a time<br><br><b>Welcome to Meghna House!</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
@@ -1760,7 +1760,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
