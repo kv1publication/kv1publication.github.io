@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kendriya Vidyalaya No 1",
-    "currentPage": "Meghna.html",
+    "currentPage": "Shipra.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1759,7 +1759,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -1776,7 +1776,7 @@
             "showButtons": false
           },
           "title": "<br>SHIPRA<br>HOUSE",
-          "text": "Green is the prime colour of the world, and that from which its loveliness arises.<br><br><b>Welcome to Shipra House!</b><br>",
+          "text": "How wonderful yellow is, it stands for the sun.<br><br><b>Welcome to Shipra House!</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
