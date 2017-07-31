@@ -481,8 +481,36 @@ h6,
 }
 #header4-f .mbr-section-title {
   text-align: center;
+  font-size: 60px;
 }
 #header4-f .mbr-section-lead {
+  text-align: center;
+}
+#msg-box5-l P {
+  text-align: left;
+}
+#msg-box5-l H3 {
+  text-align: left;
+}
+#features7-m .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-m .iconbox {
+  background-color: #c0a375;
+  border-color: #c0a375;
+}
+#msg-box5-n P {
+  text-align: left;
+}
+#msg-box5-n H3 {
+  text-align: left;
+}
+#header3-p .mbr-section-title,
+#header3-p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-r .mbr-section-title,
+#header3-r .mbr-section-subtitle {
   text-align: center;
 }
 #header1-h .mbr-section-lead {
