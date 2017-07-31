@@ -1175,7 +1175,7 @@
           "_styles": {
             ".mbr-section-title": {
               "text-align": "center",
-              "font-size": "60px"
+              "font-size": "48px"
             },
             ".mbr-section-lead": {
               "text-align": "center"
@@ -1212,10 +1212,18 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-l",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
@@ -1229,7 +1237,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -1258,15 +1266,7 @@
           },
           "title": "What is Classroom?",
           "text": "Google Classroom is your mission control for class. Create classes, distribute assingments, send feedback, and see everything in one place. Instant. Paperless. Easy.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "features4",
@@ -1286,8 +1286,8 @@
           "_anchor": "features7-m",
           "_params": {
             "iconsBgColor": "@primaryColor",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1409,6 +1409,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-n",
           "_params": {
             "imageSize": 50,
@@ -1426,7 +1434,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -1455,15 +1463,7 @@
           },
           "title": "Intergrating Kendriya Vidyalaya No.1, Tambaram",
           "text": "Kendriya Vidyalaya No.1, Tambaram has joined hands with Google Classroom to create a virtual classroom. Students from classes VI to XII can always be connected in the classroom.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -1477,7 +1477,7 @@
           "_name": "header3",
           "_anchor": "header3-p",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": false
@@ -1525,7 +1525,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Download Google Classroom from Play Store.",
+          "title1": "Step 1 - Download Google Classroom from Play Store.",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1541,7 +1541,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Open Google Classroom and click 'Get Started'",
+          "title2": "Step 2 - Open Google Classroom and click 'Get Started'",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1557,7 +1557,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Choose your Gmail Id and continue.<br>(Only Google Mail Id can be used)",
+          "title3": "Step 3 - Choose your Gmail Id and continue.<br>(Only Google Mail Id can be used)",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1573,7 +1573,7 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Click the add symbol (+)",
+          "title4": "Step 4 - Click the add symbol (+)",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1589,7 +1589,7 @@
               "linkInNewWindow": false
             }
           },
-          "title5": "Click 'Join Class'",
+          "title5": "Step 5 - Click 'Join Class'",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1605,7 +1605,7 @@
               "linkInNewWindow": false
             }
           },
-          "title6": "Enter your class code. (Class code for each class is given below)",
+          "title6": "Step 6 - Enter your class code. (Class code for each class is given below)",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
