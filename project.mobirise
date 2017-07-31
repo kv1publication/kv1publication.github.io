@@ -1414,7 +1414,8 @@
               "text-align": "left"
             },
             "H3": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "32px"
             }
           },
           "_anchor": "msg-box5-n",
