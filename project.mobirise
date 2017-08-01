@@ -724,6 +724,11 @@
             "Theme"
           ],
           "_name": "testimonials2",
+          "_styles": {
+            ".card-block P": {
+              "font-size": "18px"
+            }
+          },
           "testimonial": [
             {
               "text": "<p><b>My school, my pride</b></p><p>My school establishes&nbsp;</p><p>A concrete foundation of knowledge,</p><p>And wisdom in our tender brain,</p><p>Which we gratefully acknowledge.</p><p><br></p><p>Experienced knowledge,</p><p>From experienced teachers,</p><p>Lead us from the shadow of illiteracy</p><p>To the light of intelligence.</p><p><br></p><p>A shoulder to hold,</p><p>An ear to lend,</p><p>Some time to spend,</p><p>Which we all tend.</p><p><br></p><p>Together we perspire,</p><p>Together we aspire,</p><p>Together we achieve,</p><p>Together we receive.</p><p><br></p><p>My magnificent teachers so kind,</p><p>But wrong doings they do mind.</p><p>Inculcated into us is not fear,</p><p>As they believe to a student,</p><p>School days are very dear.</p><p><br></p><p>Our schedules have changed,</p><p>Our teachers have changed,</p><p>Our classes have changed,</p><p>Our friends have changed.</p><p><br></p><p>But one thing we will live on forever,</p><p>The pride we had for our team,</p><p>And which gave us a very big dream.</p><p><br></p><p>This prestigious institution gives us a hand,</p><p>No matter where we land,</p><p>We are sure to scintillate,</p><p>We all are very fortunate.</p><p><br></p><p>Studying here is not just a pleasure,</p><p>But its truly a lifetime's treasure.</p><p><br></p><p>We are the titans,</p><p>We are smart,</p><p>We are loud,</p><p>We are proud.</p><p><br></p><p>No matter where we go,</p><p>Or how far we leave,</p><p>We will always be proud to say,</p><p>Kv 1 tambaram is my school.</p>",
@@ -760,12 +765,7 @@
             "showSubtitle": true
           },
           "title": "WHAT OUR FANTASTIC STUDENTS SAY",
-          "subtitle": "",
-          "_styles": {
-            ".card-block P": {
-              "font-size": "18px"
-            }
-          }
+          "subtitle": ""
         }
       ]
     },
