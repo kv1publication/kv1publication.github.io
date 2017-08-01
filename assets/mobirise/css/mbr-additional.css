@@ -446,19 +446,40 @@ h6,
 #msg-box8-5 .mbr-section-title {
   font-size: 30px;
 }
-#features7-6 .card-subtitle {
-  color: #bcbcbc;
+#header3-12 .mbr-section-title,
+#header3-12 .mbr-section-subtitle {
+  text-align: center;
 }
-#features7-6 .iconbox {
-  background-color: #c0a375;
-  border-color: #c0a375;
+#header3-12 H3 {
+  font-size: 36px;
 }
-#features7-7 .card-subtitle {
-  color: #bcbcbc;
+#header3-13 .mbr-section-title,
+#header3-13 .mbr-section-subtitle {
+  text-align: center;
 }
-#features7-7 .iconbox {
-  background-color: #c0a375;
-  border-color: #c0a375;
+#header3-13 H3 {
+  font-size: 25px;
+}
+#header3-14 .mbr-section-title,
+#header3-14 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-14 H3 {
+  font-size: 25px;
+}
+#header3-15 .mbr-section-title,
+#header3-15 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-15 H3 {
+  font-size: 36px;
+}
+#header3-16 .mbr-section-title,
+#header3-16 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-16 H3 {
+  font-size: 25px;
 }
 #msg-box8-8 .mbr-section-title,
 #msg-box8-8 p {
