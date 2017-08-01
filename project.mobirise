@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kendriya Vidyalaya No 1",
-    "currentPage": "classroom.html",
+    "currentPage": "student.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 34,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/web-hi-res-512-128x128.png",
     "noImageResize": ""
@@ -1086,13 +1086,146 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-x",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Drawings",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Anjali XI-C",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170731-wa0012-2000x2850-800x1140.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170731-wa0012-2000x2850.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Anjali XI-C",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170731-wa0010-2000x2641-800x1056.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170731-wa0010-2000x2641.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Anjali XI-C",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170731-wa0023-2000x2412-800x964.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170731-wa0023-2000x2412.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Anjali XI-C",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170731-wa0020-2000x4210-800x1684.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170731-wa0020-2000x4210.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Anjali XI-C",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170731-wa0024-2000x2308-800x923.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170731-wa0024-2000x2308.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Shivani XII-C",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170731-wa0011-2000x1539-800x615.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170731-wa0011-2000x1539.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Shivani XII-C",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170731-wa0009-2000x1271-800x508.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170731-wa0009-2000x1271.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Aishwarya XI-C",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170731-wa0022-2000x3560-800x1424.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170731-wa0022-2000x3560.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Aishwarya XI-C",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170731-wa0021-2000x3560-800x1424.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170731-wa0021-2000x3560.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-v",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "testimonials2",
           "testimonial": [
             {
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "<p><b>My school, my pride</b></p><p>My school establishes&nbsp;</p><p>A concrete foundation of knowledge,</p><p>And wisdom in our tender brain,</p><p>Which we gratefully acknowledge.</p><p><br></p><p>Experienced knowledge,</p><p>From experienced teachers,</p><p>Lead us from the shadow of illiteracy</p><p>To the light of intelligence.</p><p><br></p><p>A shoulder to hold,</p><p>An ear to lend,</p><p>Some time to spend,</p><p>Which we all tend.</p><p><br></p><p>Together we perspire,</p><p>Together we aspire,</p><p>Together we achieve,</p><p>Together we receive.</p><p><br></p><p>My magnificent teachers so kind,</p><p>But wrong doings they do mind.</p><p>Inculcated into us is not fear,</p><p>As they believe to a student,</p><p>School days are very dear.</p><p><br></p><p>Our schedules have changed,</p><p>Our teachers have changed,</p><p>Our classes have changed,</p><p>Our friends have changed.</p><p><br></p><p>But one thing we will live on forever,</p><p>The pride we had for our team,</p><p>And which gave us a very big dream.</p><p><br></p><p>This prestigious institution gives us a hand,</p><p>No matter where we land,</p><p>We are sure to scintillate,</p><p>We all are very fortunate.</p><p><br></p><p>Studying here is not just a pleasure,</p><p>But its truly a lifetime's treasure.</p><p><br></p><p>We are the titans,</p><p>We are smart,</p><p>We are loud,</p><p>We are proud.</p><p><br></p><p>No matter where we go,</p><p>Or how far we leave,</p><p>We will always be proud to say,</p><p>Kv 1 tambaram is my school.</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -1102,44 +1235,16 @@
                   "active": true
                 }
               },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Suffian A.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Jhollman C.",
-              "authorBio": "User"
+              "authorName": "Sowjanya",
+              "authorBio": "XI-C"
             }
           ],
           "_anchor": "testimonials2-d",
           "_params": {
-            "count": 3,
+            "count": "1",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showImages": true,
+            "showImages": false,
             "showName": true,
             "showBio": true,
             "bgImageRadio": false,
@@ -1154,7 +1259,12 @@
             "showSubtitle": true
           },
           "title": "WHAT OUR FANTASTIC STUDENTS SAY",
-          "subtitle": ""
+          "subtitle": "",
+          "_styles": {
+            ".card-block P": {
+              "font-size": "18px"
+            }
+          }
         }
       ]
     },

@@ -477,6 +477,13 @@ h6,
 #msg-box8-c p {
   color: #fff;
 }
+#header3-x .mbr-section-title,
+#header3-x .mbr-section-subtitle {
+  text-align: center;
+}
+#testimonials2-d .card-block P {
+  font-size: 18px;
+}
 
 #header4-f .mbr-section-title {
   text-align: center;
