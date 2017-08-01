@@ -200,7 +200,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1339.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -224,7 +224,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -247,7 +248,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -270,7 +272,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -293,7 +296,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -316,7 +320,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "25px"
+              "font-size": "25px",
+              "text-align": "right"
             }
           },
           "_tags": [
