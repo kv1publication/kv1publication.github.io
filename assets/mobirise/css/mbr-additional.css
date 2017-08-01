@@ -412,9 +412,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header1-0 .mbr-section-title {
-  font-size: 36px;
-}
 #header1-1 .mbr-section-lead {
   color: #ffffff;
 }
@@ -473,9 +470,14 @@ h6,
 }
 #content5-a .mbr-section-title {
   text-align: center;
+  font-size: 36px;
 }
-#features2-b .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+#header3-11 .mbr-section-title,
+#header3-11 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-11 H3 {
+  font-size: 32px;
 }
 #msg-box8-c .mbr-section-title,
 #msg-box8-c p {
