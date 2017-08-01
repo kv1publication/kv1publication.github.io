@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -476,9 +477,11 @@ h6,
 #msg-box8-c p {
   color: #fff;
 }
+
 #header4-f .mbr-section-title {
   text-align: center;
   font-size: 46px;
+  font-family: 'Oswald', sans-serif;
 }
 #header4-f .mbr-section-lead {
   text-align: center;
@@ -488,6 +491,7 @@ h6,
 }
 #msg-box5-l H3 {
   text-align: left;
+  font-size: 46px;
 }
 #features7-m .card-subtitle {
   color: #bcbcbc;
@@ -506,6 +510,9 @@ h6,
 #header3-p .mbr-section-title,
 #header3-p .mbr-section-subtitle {
   text-align: center;
+}
+#header3-p H3 {
+  font-size: 36px;
 }
 #header3-r .mbr-section-title,
 #header3-r .mbr-section-subtitle {
