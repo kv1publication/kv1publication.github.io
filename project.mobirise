@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kendriya Vidyalaya No 1",
-    "currentPage": "cca.html",
+    "currentPage": "student.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 43,
+    "uniqCompNum": 44,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/web-hi-res-512-128x128.png",
     "noImageResize": ""
@@ -561,6 +561,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -732,6 +735,9 @@
           "_styles": {
             ".card-block P": {
               "font-size": "18px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "testimonial": [
@@ -771,6 +777,26 @@
           },
           "title": "WHAT OUR FANTASTIC STUDENTS SAY",
           "subtitle": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-17",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Please submit your work to<br>kv1publication@gmail.com"
         }
       ]
     },
