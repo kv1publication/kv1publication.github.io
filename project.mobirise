@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kendriya Vidyalaya No 1",
-    "currentPage": "student.html",
+    "currentPage": "classroom.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 44,
+    "uniqCompNum": 46,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/web-hi-res-512-128x128.png",
     "noImageResize": ""
@@ -126,29 +126,6 @@
           "title": "ANNOUNCEMENTS",
           "text": "<p>.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "24px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-z",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Annual Inspection",
-          "meta": "On 1st and 2nd of August 2017"
         },
         {
           "_styles": {
@@ -1289,6 +1266,47 @@
             "bgColor": "#fff"
           },
           "text": "<blockquote><p><b style=\"font-style: normal;\">Class VI</b></p><p>sytc1qt</p><p><br></p><p><b style=\"font-style: normal;\">Class VII</b></p><p>vmw9fy</p><p><br></p><p><b style=\"font-style: normal;\">Class VIII</b></p><p>xq7mkb</p><p><br></p><p><b style=\"font-style: normal;\">Class IX</b></p><p>p4nmkb</p><p><br></p><p><b style=\"font-style: normal;\">Class X</b></p><p>yigs9hw</p><p><br></p><p><b style=\"font-style: normal;\">Class XI Humanities</b></p><p>59v6dr</p><p><br></p><p><b style=\"font-style: normal;\">Class XI Commerce</b></p><p><span style=\"font-style: normal;\">1i6lsez</span></p><p><br></p><p><b style=\"font-style: normal;\">Class XI Science</b></p><p>cco3e6</p><p><br></p><p><span style=\"font-style: normal;\"><b>Class XII Humanities</b></span></p><p><span style=\"font-style: normal;\">aoyzk6m</span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>Class XII Commerce</b></span></p><p><span style=\"font-style: normal;\">cxw6va</span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>Class XII Science</b></span></p><p><span style=\"font-style: normal;\">evc41u</span></p><p><span style=\"font-style: normal;\"><br></span></p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-18",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "For Teachers",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Teachers are requested to give their Gmail Id and the list of classes for which they want access, to kv1publication@gmail.com&nbsp;"
         }
       ]
     },
