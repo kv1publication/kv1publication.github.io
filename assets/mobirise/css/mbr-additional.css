@@ -578,6 +578,23 @@ h6,
 #header1-i .mbr-section-title {
   color: #ffffff;
 }
+#header3-1a .mbr-section-title,
+#header3-1a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1a H3 {
+  font-size: 36px;
+}
+#header3-1a SMALL {
+  color: #000000;
+}
+#features7-1b .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-1b .iconbox {
+  background-color: #c0a375;
+  border-color: #c0a375;
+}
 #header1-j .mbr-section-lead {
   color: #ffffff;
 }
