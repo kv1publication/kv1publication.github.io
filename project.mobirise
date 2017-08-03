@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kendriya Vidyalaya No 1",
-    "currentPage": "cca.html",
+    "currentPage": "Meghna.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1491,7 +1491,7 @@
           },
           "title2": "House Vice Captains",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Sachin (XI-C)<br>Subashree (XI-C)",
+          "caption2": "Sachin (XI-C)<br>abcd (XI)",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
