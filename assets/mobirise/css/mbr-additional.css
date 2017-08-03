@@ -572,6 +572,16 @@ h6,
 #header1-h .mbr-section-title {
   color: #ffffff;
 }
+#header3-1c .mbr-section-title,
+#header3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1c H3 {
+  font-size: 36px;
+}
+#header3-1c SMALL {
+  color: #000000;
+}
 #header1-i .mbr-section-lead {
   color: #ffffff;
 }
