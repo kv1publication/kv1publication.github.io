@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -447,14 +447,6 @@ h6,
   font-size: 36px;
   text-align: right;
 }
-#header3-13 .mbr-section-title,
-#header3-13 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-13 H3 {
-  font-size: 25px;
-  text-align: right;
-}
 #header3-14 .mbr-section-title,
 #header3-14 .mbr-section-subtitle {
   text-align: center;
@@ -469,14 +461,6 @@ h6,
 }
 #header3-15 H3 {
   font-size: 36px;
-  text-align: right;
-}
-#header3-16 .mbr-section-title,
-#header3-16 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-16 H3 {
-  font-size: 25px;
   text-align: right;
 }
 #msg-box8-8 .mbr-section-title,
